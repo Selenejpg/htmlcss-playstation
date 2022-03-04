@@ -29,6 +29,7 @@
 
 .col-hov {
     opacity: 0.5; 
+    padding-bottom: 10px;
 }
 
 .col-hov:hover {
@@ -42,4 +43,16 @@
 
 .play-size {
     width: 90%;
+}
+
+#it-takes-two {
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.it-takes-two-logo {
+    height: 120px;
+    margin-top: 30px;
 }
