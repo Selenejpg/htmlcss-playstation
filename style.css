@@ -18,6 +18,12 @@
     border-radius: 20px;
 }
 
+.border-b {
+    border-radius: 20px;
+    border: black;
+    width: 150px;
+}
+
 .blue-color {
     color: #338ed8;
 }
@@ -55,4 +61,9 @@
 .it-takes-two-logo {
     height: 120px;
     margin-top: 30px;
+}
+
+.fs-custom {
+    font-size: 12px;
+    width: 150px;
 }
