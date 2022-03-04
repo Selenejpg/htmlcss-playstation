@@ -33,16 +33,6 @@
     width: 20px;
 }
 
-.col-hov {
-    opacity: 0.5; 
-    padding-bottom: 10px;
-}
-
-.col-hov:hover {
-    opacity: 1.0;
-    border-bottom: 1px solid #338ed8;
-}
-
 .img-size {
     width: 120px;
 }
@@ -63,18 +53,31 @@
     margin-top: 30px;
 }
 
-.fs-custom {
-    font-size: 12px;
-    width: 150px;
-}
-
 .size-b {
     font-size: 30px;
 }
 
 .p-size {
     justify-content: center;
-    /* width: 80%; */
     margin: auto;
     color: grey;
+}
+
+.col-hov {
+    opacity: 75%;
+}
+
+.col-hov:hover {
+    opacity: 100%;
+    border-bottom: #338ed8 1px solid; 
+}
+
+.hovereffect:hover {
+    border: #338ed8 solid;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.hovereffect {
+    border-radius: 20px;
 }
