@@ -67,3 +67,14 @@
     font-size: 12px;
     width: 150px;
 }
+
+.size-b {
+    font-size: 30px;
+}
+
+.p-size {
+    justify-content: center;
+    /* width: 80%; */
+    margin: auto;
+    color: grey;
+}
