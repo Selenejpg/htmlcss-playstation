@@ -14,3 +14,32 @@
     height: 30px;
 }
 
+.border {
+    border-radius: 20px;
+}
+
+.blue-color {
+    color: #338ed8;
+}
+
+.size {
+    font-size: 12px;
+    width: 20px;
+}
+
+.col-hov {
+    opacity: 0.5; 
+}
+
+.col-hov:hover {
+    opacity: 1.0;
+    border-bottom: 1px solid #338ed8;
+}
+
+.img-size {
+    width: 120px;
+}
+
+.play-size {
+    width: 90%;
+}
