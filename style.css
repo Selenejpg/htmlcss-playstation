@@ -115,3 +115,19 @@
 .bg-custom-now {
     background-color: #161c3b;
 }
+
+.row-cols-4 {
+    margin: 0;
+    padding: 0%;
+}
+
+.col-hov-custom:hover {
+    border: white solid;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.col-hov-custom {
+    border-radius: 20px;
+}
+
