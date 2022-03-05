@@ -81,3 +81,23 @@
 .hovereffect {
     border-radius: 20px;
 }
+
+.bg-custom-plus {
+    background-color: #bebcbb;
+}
+
+.psplus-logo {
+    width: 80%;
+}
+
+@media screen and (max-width:426px){
+    .none {
+        display: none;
+    }
+}
+
+.custom-button-plus {
+    background-color: #d9dadc;
+    color:#3167e6;
+    border: #d9dadc;
+}
