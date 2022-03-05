@@ -134,3 +134,28 @@
 .custompadding {
     padding-top: 15px;
 }
+
+/* classi footer */
+
+.sie-logo {
+    width: 150px;
+}
+
+.custom-bg-footer {
+    background-color: rgba(0,67,156,255);
+}
+
+li > a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+}
+
+.ps-footer {
+    width: 100px;
+}
+
+
